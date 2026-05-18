@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <defs>
+    <!-- Degradado vertical suave -->
+    <linearGradient id="hoverGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5CA4F9" />
+      <stop offset="100%" stop-color="#347CD1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo hover -->
+  <rect x="0" y="0" width="128" height="128" fill="url(#hoverGrad)" />
+
+  <!-- Borde -->
+  <rect x="0.5" y="0.5" width="127" height="127"
+        fill="none" stroke="#73A9E6" stroke-width="1" />
+</svg>
