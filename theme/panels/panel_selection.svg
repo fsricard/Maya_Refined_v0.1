@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <!-- Fondo selección -->
+  <rect x="0" y="0" width="128" height="128" fill="#2068BD" />
+
+  <!-- Borde exterior -->
+  <rect x="0.5" y="0.5" width="127" height="127"
+        fill="none" stroke="#5CA4F9" stroke-width="1" />
+
+  <!-- Glow interior suave -->
+  <rect x="4" y="4" width="120" height="120"
+        fill="none" stroke="#347CD1" stroke-width="2" opacity="0.25" />
+</svg>
