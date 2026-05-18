@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
-  <!-- Fondo -->
-  <rect x="0" y="0" width="128" height="128" fill="#1A1A1A" />
-
-  <!-- Borde -->
-  <rect x="8" y="8" width="112" height="112"
-        fill="none" stroke="#484848" stroke-width="8" />
-</svg>
