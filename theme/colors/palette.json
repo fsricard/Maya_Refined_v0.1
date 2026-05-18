@@ -1,0 +1,17 @@
+{
+    "background": "#1A1A1A",
+    "background_alt": "#202020",
+    "text": "#E6E6E6",
+    "text_inactive": "#8F98A5",
+    "accent_primary": "#347CD1",
+    "accent_secondary": "#2068BD",
+    "accent_hover": "#5CA4F9",
+    "accent_pressed": "#0C54A9",
+    "border": "#484848",
+    "highlight_text": "#73A9E6",
+    "tab_active_bg": "#303030",
+    "tab_inactive_bg": "#353535",
+    "menu_bg": "#202020",
+    "menu_item_hover": "#347CD1",
+    "menu_item_pressed": "#2068BD"
+}
