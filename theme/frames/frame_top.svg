@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="8">
+  <!-- Fondo -->
+  <rect x="0" y="0" width="128" height="8" fill="#1A1A1A" />
+
+  <!-- Línea azul Maya -->
+  <rect x="0" y="0" width="128" height="2" fill="#347CD1" />
+
+  <!-- Sombra interior -->
+  <rect x="0" y="2" width="128" height="1" fill="rgba(0,0,0,0.35)" />
+</svg>
