@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <!-- Fondo pestaña inactiva -->
+  <rect x="0" y="0" width="128" height="128" fill="#353535" />
+
+  <!-- Borde tenue -->
+  <rect x="0.5" y="0.5" width="127" height="127"
+        fill="none" stroke="#484848" stroke-width="1" />
+</svg>
