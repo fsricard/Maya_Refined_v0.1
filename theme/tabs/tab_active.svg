@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <!-- Fondo pestaña activa -->
+  <rect x="0" y="0" width="128" height="128" fill="#303030" />
+
+  <!-- Borde azul Maya -->
+  <rect x="0.5" y="0.5" width="127" height="127"
+        fill="none" stroke="#347CD1" stroke-width="1.5" />
+
+  <!-- Glow superior suave -->
+  <rect x="0" y="0" width="128" height="20"
+        fill="rgba(92,164,249,0.20)" />
+</svg>
