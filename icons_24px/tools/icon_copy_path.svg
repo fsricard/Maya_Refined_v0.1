@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-  <!-- Documento trasero -->
-  <rect x="7" y="5" width="10" height="12"
-        fill="none" stroke="#E6E6E6" stroke-width="2.2" rx="1"/>
-
-  <!-- Documento delantero -->
-  <rect x="5" y="7" width="10" height="12"
-        fill="none" stroke="#E6E6E6" stroke-width="2.2" rx="1"/>
-</svg>
