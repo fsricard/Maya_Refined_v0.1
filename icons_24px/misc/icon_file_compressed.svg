@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+  <!-- Archivo -->
+  <path d="M6 4h8l4 4v12H6z"
+        fill="none" stroke="#E6E6E6" stroke-width="2.2"/>
+
+  <!-- Cremallera -->
+  <line x1="12" y1="8" x2="12" y2="18"
+        stroke="#E6E6E6" stroke-width="2.2" stroke-linecap="round"/>
+  <rect x="11" y="10" width="2" height="2"
+        fill="#E6E6E6" rx="1"/>
+</svg>
