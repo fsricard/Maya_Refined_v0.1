@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iconset name="Maya Refined Icons v1.0">
+<display_name>Maya Refined Icons v1.0</display_name>
+<artist>Ricard FS</artist>
+
+<set size="large" width="32" height="32" filename=".png">
+	<icon name="" row="1" col="1" />
+</set>
+
+
+
+
+
+
+
+
+
+
+<set size="Small" width="24" height="24" filename=".png">
+	<icon name=""  row="1" col="1" />
+</set>
+
+</iconset>
