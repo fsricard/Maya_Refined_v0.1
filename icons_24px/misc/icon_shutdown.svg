@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+  <!-- Círculo -->
+  <path d="M6 8a8 8 0 1 0 12 0"
+        fill="none" stroke="#E6E6E6" stroke-width="2.2"
+        stroke-linecap="round"/>
+
+  <!-- Línea central -->
+  <line x1="12" y1="3" x2="12" y2="10"
+        stroke="#E6E6E6" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
