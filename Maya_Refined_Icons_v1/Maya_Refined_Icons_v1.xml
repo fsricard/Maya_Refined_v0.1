@@ -3,254 +3,254 @@
 <display_name>Maya Refined Icons v1.0</display_name>
 <artist>Ricard FS</artist>
 
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_back_32.png">
+	<icon name="icon back" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_cmd_admin_32.png">
+	<icon name="icon cmd admin" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_copy_32.png">
+	<icon name="icon copy" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_copy_path_32.png">
+	<icon name="icon copy path" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_cut_32.png">
+	<icon name="icon cut" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_delete_32.png">
+	<icon name="icon delete" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_favorites_32.png">
+	<icon name="icon favorites" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_file_compressed_32.png">
+	<icon name="icon file compressed" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_file_generic_32.png">
+	<icon name="icon file generic" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_file_hidden_32.png">
+	<icon name="icon file hidden" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_file_protected_32.png">
+	<icon name="icon file protected" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_file_readonly_32.png">
+	<icon name="icon file readonly" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_file_system_32.png">
+	<icon name="icon file system" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_filter_32.png">
+	<icon name="icon filter" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_compressed_32.png">
+	<icon name="icon folder compressed" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_desktop_32.png">
+	<icon name="icon folder desktop" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_documents_32.png">
+	<icon name="icon foldel documents" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_downloads_32.png">
+	<icon name="icon folder downloads" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_generic_32.png">
+	<icon name="icon folder generic" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_music_32.png">
+	<icon name="icon folder music" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_open_32.png">
+	<icon name="icon folder open" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_pictures_32.png">
+	<icon name="icon folder pictures" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_folder_videos_32.png">
+	<icon name="icon folder videos" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_forward_32.png">
+	<icon name="icon forward" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_go_up_32.png">
+	<icon name="icon go up" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_history_32.png">
+	<icon name="icon history" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_info_32.png">
+	<icon name="icon info" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_mute_32.png">
+	<icon name="icon media mute" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_next_32.png">
+	<icon name="icon media next" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_pause_32.png">
+	<icon name="icon media pause" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_play_32.png">
+	<icon name="icon media play" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_prev_32.png">
+	<icon name="icon media prev" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_stop_32.png">
+	<icon name="icon media stop" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_media_volume_32.png">
+	<icon name="icon media volume" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_move_32.png">
+	<icon name="icon move" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_move_folder_32.png">
+	<icon name="icon move folder" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_open_cmd_32.png">
+	<icon name="icon open cmd" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_open_location_32.png">
+	<icon name="icon open location" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_open_powershell_32.png">
+	<icon name="icon open powershell" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_open_terminal_32.png">
+	<icon name="icon open terminal" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_dual_32.png">
+	<icon name="icon panel dual" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_left_32.png">
+	<icon name="icon panel left" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_lock_32.png">
+	<icon name="icon panel lock" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_refresh_32.png">
+	<icon name="icon panel refresh" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_right_32.png">
+	<icon name="icon panel right" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_sync_32.png">
+	<icon name="icon panel sync" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_panel_unlock_32.png">
+	<icon name="icon panel unlock" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_parent_folder_32.png">
+	<icon name="icon parent folder" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_paste_32.png">
+	<icon name="icon paste" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_properties_32.png">
+	<icon name="icon properties" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_rename_32.png">
+	<icon name="icon rename" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_restart_32.png">
+	<icon name="icon restart" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_root_32.png">
+	<icon name="icon root" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_rotate_left_32.png">
+	<icon name="icon rotate left" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_rotate_right_32.png">
+	<icon name="icon rotate right" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_save_jpeg_32.png">
+	<icon name="icon save jpeg" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_save_png_32.png">
+	<icon name="icon save png" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_search_32.png">
+	<icon name="icon search" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_select_all_32.png">
+	<icon name="icon select all" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_select_same_ext_32.png">
+	<icon name="icon select same ext" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_settings_32.png">
+	<icon name="icon settings" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_shutdown_32.png">
+	<icon name="icon shutdown" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_sleep_32.png">
+	<icon name="icon sleep" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_sort_32.png">
+	<icon name="sicon sort" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_active_32.png">
+	<icon name="icon tab active" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_clone_32.png">
+	<icon name="icon tab clone" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_close_32.png">
+	<icon name="icon tab close" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_inactive_32.png">
+	<icon name="icon tab inactive" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_locked_32.png">
+	<icon name="icon tab locked" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_new_32.png">
+	<icon name="icon tab new" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_tab_readonly_32.png">
+	<icon name="icon tab readonly" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_view_details_32.png">
+	<icon name="icon view details" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_view_large_32.png">
+	<icon name="iconview large" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_view_list_32.png">
+	<icon name="icon view list" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_view_small_32.png">
+	<icon name="icon view small" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_view_thumbs_32.png">
+	<icon name="icon view thumbs" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_window_close_32.png">
+	<icon name="icon window close" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_window_maximize_32.png">
+	<icon name="icon window maximize" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_window_minimize_32.png">
+	<icon name="icon window minimize" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_window_restore_32.png">
+	<icon name="icon window restore" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_zip_add_32.png">
+	<icon name="icon zip add" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_zip_extract_32.png">
+	<icon name="icon zip extract" row="1" col="1" />
 </set>
-<set size="large" width="32" height="32" filename=".png">
-	<icon name="" row="1" col="1" />
+<set size="large" width="32" height="32" filename="png/32/icon_zip_extract_here_32.png">
+	<icon name="icon zip extract here" row="1" col="1" />
 </set>
 
 
@@ -262,254 +262,254 @@
 
 
 
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_back_24.png">
+	<icon name="icon back" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_cmd_admin_24.png">
+	<icon name="icon cmd admin" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_copy_24.png">
+	<icon name="icon copy" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_copy_path_24.png">
+	<icon name="icon copy path" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_cut_24.png">
+	<icon name="icon cut" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_delete_24.png">
+	<icon name="icon delete" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_favorites_24.png">
+	<icon name="icon favorites" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_file_compressed_24.png">
+	<icon name="icon file compressed" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_file_generic_24.png">
+	<icon name="icon file generic" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_file_hidden_24.png">
+	<icon name="icon file hidden" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_file_protected_24.png">
+	<icon name="icon file protected" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_file_readonly_24.png">
+	<icon name="icon file readonly" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_file_system_24.png">
+	<icon name="icon file system" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_filter_24.png">
+	<icon name="icon filter" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_compressed_24.png">
+	<icon name="icon folder compressed" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_desktop_24.png">
+	<icon name="icon folder desktop" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_documents_24.png">
+	<icon name="icon foldel documents" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_downloads_24.png">
+	<icon name="icon folder downloads" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_generic_24.png">
+	<icon name="icon folder generic" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_music_24.png">
+	<icon name="icon folder music" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_open_24.png">
+	<icon name="icon folder open" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_pictures_24.png">
+	<icon name="icon folder pictures" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_folder_videos_24.png">
+	<icon name="icon folder videos" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_forward_24.png">
+	<icon name="icon forward" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_go_up_24.png">
+	<icon name="icon go up" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_history_24.png">
+	<icon name="icon history" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_info_24.png">
+	<icon name="icon info" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_mute_24.png">
+	<icon name="icon media mute" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_next_24.png">
+	<icon name="icon media next" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_pause_24.png">
+	<icon name="icon media pause" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_play_24.png">
+	<icon name="icon media play" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_prev_24.png">
+	<icon name="icon media prev" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_stop_24.png">
+	<icon name="icon media stop" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_media_volume_24.png">
+	<icon name="icon media volume" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_move_24.png">
+	<icon name="icon move" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_move_folder_24.png">
+	<icon name="icon move folder" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_open_cmd_24.png">
+	<icon name="icon open cmd" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_open_location_24.png">
+	<icon name="icon open location" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_open_powershell_24.png">
+	<icon name="icon open powershell" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_open_terminal_24.png">
+	<icon name="icon open terminal" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_dual_24.png">
+	<icon name="icon panel dual" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_left_24.png">
+	<icon name="icon panel left" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_lock_24.png">
+	<icon name="icon panel lock" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_refresh_24.png">
+	<icon name="icon panel refresh" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_right_24.png">
+	<icon name="icon panel right" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_sync_24.png">
+	<icon name="icon panel sync" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_panel_unlock_24.png">
+	<icon name="icon panel unlock" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_parent_folder_24.png">
+	<icon name="icon parent folder" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_paste_24.png">
+	<icon name="icon paste" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_properties_24.png">
+	<icon name="icon properties" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_rename_24.png">
+	<icon name="icon rename" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_restart_24.png">
+	<icon name="icon restart" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_root_24.png">
+	<icon name="icon root" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_rotate_left_24.png">
+	<icon name="icon rotate left" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_rotate_right_24.png">
+	<icon name="icon rotate right" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_save_jpeg_24.png">
+	<icon name="icon save jpeg" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_save_png_24.png">
+	<icon name="icon save png" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_search_24.png">
+	<icon name="icon search" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_select_all_24.png">
+	<icon name="icon select all" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_select_same_ext_24.png">
+	<icon name="icon select same ext" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_settings_24.png">
+	<icon name="icon settings" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_shutdown_24.png">
+	<icon name="icon shutdown" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_sleep_24.png">
+	<icon name="icon sleep" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_sort_24.png">
+	<icon name="sicon sort" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_active_24.png">
+	<icon name="icon tab active" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_clone_24.png">
+	<icon name="icon tab clone" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_close_24.png">
+	<icon name="icon tab close" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_inactive_24.png">
+	<icon name="icon tab inactive" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_locked_24.png">
+	<icon name="icon tab locked" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_new_24.png">
+	<icon name="icon tab new" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_tab_readonly_24.png">
+	<icon name="icon tab readonly" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_view_details_24.png">
+	<icon name="icon view details" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_view_large_24.png">
+	<icon name="iconview large" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_view_list_24.png">
+	<icon name="icon view list" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_view_small_24.png">
+	<icon name="icon view small" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_view_thumbs_24.png">
+	<icon name="icon view thumbs" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_window_close_24.png">
+	<icon name="icon window close" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_window_maximize_24.png">
+	<icon name="icon window maximize" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_window_minimize_24.png">
+	<icon name="icon window minimize" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_window_restore_24.png">
+	<icon name="icon window restore" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_zip_add_24.png">
+	<icon name="icon zip add" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_zip_extract_24.png">
+	<icon name="icon zip extract" row="1" col="1" />
 </set>
-<set size="Small" width="24" height="24" filename=".png">
-	<icon name=""  row="1" col="1" />
+<set size="Small" width="24" height="24" filename="png/24/icon_zip_extract_here_24.png">
+	<icon name="icon zip extract here" row="1" col="1" />
 </set>
 
 </iconset>
