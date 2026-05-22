@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar name="Maya Refined — Main" guid="{A1B2C3D4-E5F6-47AA-8899-112233445566}" flags="largeicons" hot="1">
+
+    <!-- ========================= -->
+    <!--   BOTONES PRINCIPALES    -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Atrás</label>
+        <tip>Volver a la carpeta anterior</tip>
+        <command>Go BACK</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Adelante</label>
+        <tip>Ir a la carpeta siguiente</tip>
+        <command>Go FORWARD</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Subir</label>
+        <tip>Subir un nivel</tip>
+        <command>Go UP</command>
+    </button>
+
+    <separator icon="Maya_Toolbar_Separator" />
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Nueva pestaña</label>
+        <tip>Abrir una nueva pestaña</tip>
+        <command>Go NEWTAB</command>
+    </button>
+
+    <separator icon="Maya_Toolbar_Separator" />
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Copiar</label>
+        <tip>Copiar archivos seleccionados</tip>
+        <command>Copy</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Pegar</label>
+        <tip>Pegar archivos</tip>
+        <command>Paste</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Eliminar</label>
+        <tip>Eliminar archivos seleccionados</tip>
+        <command>Delete</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Renombrar</label>
+        <tip>Renombrar archivo o carpeta</tip>
+        <command>Rename</command>
+    </button>
+
+    <separator icon="Maya_Toolbar_Separator" />
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Propiedades</label>
+        <tip>Mostrar propiedades</tip>
+        <command>Properties</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Buscar</label>
+        <tip>Buscar archivos</tip>
+        <command>Find</command>
+    </button>
+
+    <separator icon="Maya_Toolbar_Separator" />
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Dual</label>
+        <tip>Activar/Desactivar doble panel</tip>
+        <command>Set DUAL=Toggle</command>
+    </button>
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Actualizar</label>
+        <tip>Actualizar carpeta</tip>
+        <command>Go REFRESH</command>
+    </button>
+
+    <separator icon="Maya_Toolbar_Separator" />
+
+    <button display="icon" label_pos="below" icon="Maya_Toolbar_Button_Normal" hoticon="Maya_Toolbar_Button_Hover" downicon="Maya_Toolbar_Button_Pressed">
+        <label>Opciones</label>
+        <tip>Abrir configuración</tip>
+        <command>Prefs</command>
+    </button>
+
+</toolbar>
