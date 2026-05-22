@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iconset name="Maya Tabs 1.0">
+<display_name>Maya Tabs 1.0</display_name>
+<artist>Ricard FS</artist>
+
+<set size="large" width="128" height="128" filename="images/tabs/tab_active.png">
+	<icon name="Maya_Tab_Active" row="1" col="1" />
+</set>
+<set size="large" width="128" height="128" filename="images/tabs/tab_inactive.png">
+	<icon name="Maya_Tab_Inactive" row="1" col="1" />
+</set>
+<set size="large" width="128" height="128" filename="images/tabs/tab_hover.png">
+	<icon name="Maya_Tab_Hover" row="1" col="1" />
+</set>
+
+</iconset>
