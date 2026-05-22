@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <iconset name="Maya Toolbars 1.0">
 <display_name>Maya Toolbars 1.0</display_name>
+<copyright>2026 Ricard FS</copyright>
 <artist>Ricard FS</artist>
-
-<set size="large" width="128" height="32" filename="images/toolbars/toolbar_background.png">
-	<icon name="Maya_Toolbar_Background" row="1" col="1" />
+<set size="large" width="128" height="128" filename="toolbar_button.png">
+<icon name="Maya_Toolbar_Button_Normal" row="1" col="1" />
 </set>
-<set size="large" width="128" height="128" filename="images/toolbars/toolbar_button.png">
-	<icon name="Maya_Toolbar_Button_Normal" row="1" col="1" />
+<set size="large" width="128" height="128" filename="toolbar_button_hover.png">
+<icon name="Maya_Toolbar_Button_Hover" row="1" col="1" />
 </set>
-<set size="large" width="128" height="128" filename="images/toolbars/toolbar_button_hover.png">
-	<icon name="Maya_Toolbar_Button_Hover" row="1" col="1" />
+<set size="large" width="128" height="128" filename="toolbar_button_pressed.png">
+<icon name="Maya_Toolbar_Button_Pressed" row="1" col="1" />
 </set>
-<set size="large" width="128" height="128" filename="images/toolbars/toolbar_button_pressed.png">
-	<icon name="Maya_Toolbar_Button_Pressed" row="1" col="1" />
+<set size="large" width="128" height="32" filename="toolbar_background.png">
+<icon name="Maya_Toolbar_Background" row="1" col="1" />
 </set>
-<set size="large" width="128" height="4" filename="images/toolbars/toolbar_line.png">
-	<icon name="Maya_Toolbar_Line" row="1" col="1" />
+<set size="large" width="4" height="128" filename="toolbar_separator.png">
+<icon name="Maya_Toolbar_Separator" row="1" col="1" />
 </set>
-<set size="large" width="4" height="128" filename="images/toolbars/toolbar_separator.png">
-	<icon name="Maya_Toolbar_Separator" row="1" col="1" />
+<set size="large" width="128" height="4" filename="toolbar_line.png">
+<icon name="Maya_Toolbar_Line" row="1" col="1" />
 </set>
-
 </iconset>
