@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iconset name="Maya Breadcrumbs 1.0">
+<display_name>Maya Breadcrumbs 1.0</display_name>
+<artist>Ricard FS</artist>
+
+<set size="large" width="128" height="32" filename="images/breadcrumbs/breadcrumb_background.png">
+	<icon name="Maya_Breadcrumb_Background" row="1" col="1" />
+</set>
+<set size="large" width="128" height="128" filename="images/breadcrumbs/breadcrumb_arrow.png">
+	<icon name="Maya_Breadcrumb_Arrow" row="1" col="1" />
+</set>
+<set size="large" width="128" height="128" filename="images/breadcrumbs/breadcrumb_arrow_hover.png">
+	<icon name="Maya_Breadcrumb_Arrow_Hover" row="1" col="1" />
+</set>
+<set size="large" width="128" height="128" filename="images/breadcrumbs/breadcrumb_arrow_pressed.png">
+	<icon name="Maya_Breadcrumb_Arrow_Pressed" row="1" col="1" />
+</set>
+
+</iconset>
