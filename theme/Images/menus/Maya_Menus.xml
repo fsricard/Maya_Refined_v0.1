@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iconset name="Maya Menús 1.0">
+<display_name>Maya Menús 1.0</display_name>
+<artist>Ricard FS</artist>
+
+<set size="large" width="128" height="128" filename="images/menus/menu_background.png">
+	<icon name="Maya_Menu_Background" row="1" col="1" />
+</set>
+<set size="large" width="128" height="32" filename="images/menus/menu_item.png">
+	<icon name="Maya_Menu_Item" row="1" col="1" />
+</set>
+<set size="large" width="128" height="32" filename="images/menus/menu_item_hover.png">
+	<icon name="Maya_Menu_Item_Hover" row="1" col="1" />
+</set>
+<set size="large" width="128" height="32" filename="images/menus/menu_item_pressed.png">
+	<icon name="Maya_Menu_Item_Pressed" row="1" col="1" />
+</set>
+<set size="large" width="128" height="32" filename="images/menus/menubar_background.png">
+	<icon name="Maya_Menubar_Background" row="1" col="1" />
+</set>
+<set size="large" width="128" height="32" filename="images/menus/menubar_item.png">
+	<icon name="Maya_Menubar_Item" row="1" col="1" />
+</set>
+
+</iconset>
