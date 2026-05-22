@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <iconset name="Maya Misc 1.0">
 <display_name>Maya Misc 1.0</display_name>
+<copyright>2026 Ricard FS</copyright>
 <artist>Ricard FS</artist>
-
-<set size="large" width="128" height="128" filename="images/misc/checkbox.png">
-	<icon name="Maya_Checkbox" row="1" col="1" />
+<set size="large" width="128" height="128" filename="checkbox.png">
+<icon name="Maya_Checkbox" row="1" col="1" />
 </set>
-<set size="large" width="128" height="128" filename="images/misc/checkbox_checked.png">
-	<icon name="Maya_Checkbox_Checked" row="1" col="1" />
+<set size="large" width="128" height="128" filename="checkbox_checked.png">
+<icon name="Maya_Checkbox_Checked" row="1" col="1" />
 </set>
-<set size="large" width="128" height="128" filename="images/misc/radio.png">
-	<icon name="Maya_Radio" row="1" col="1" />
+<set size="large" width="128" height="128" filename="radio.png">
+<icon name="Maya_Radio" row="1" col="1" />
 </set>
-<set size="large" width="128" height="128" filename="images/misc/radio_selected.png">
-	<icon name="Maya_Radio_Selected" row="1" col="1" />
+<set size="large" width="128" height="128" filename="radio_selected.png">
+<icon name="Maya_Radio_Selected" row="1" col="1" />
 </set>
-
 </iconset>
