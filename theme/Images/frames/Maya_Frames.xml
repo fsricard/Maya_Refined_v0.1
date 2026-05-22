@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <iconset name="Maya Frames 1.0">
 <display_name>Maya Frames 1.0</display_name>
+<copyright>2026 Ricard FS</copyright>
 <artist>Ricard FS</artist>
-
-<set size="large" width="128" height="8" filename="images/frames/frame_top.png">
-	<icon name="Maya_Frame_Top" row="1" col="1" />
+<set size="large" width="128" height="8" filename="frame_top.png">
+<icon name="Maya_Frame_Top" row="1" col="1" />
 </set>
-<set size="large" width="128" height="8" filename="images/frames/frame_bottom.png">
-	<icon name="Maya_Frame_Bottom" row="1" col="1" />
+<set size="large" width="128" height="8" filename="frame_bottom.png">
+<icon name="Maya_Frame_Bottom" row="1" col="1" />
 </set>
-<set size="large" width="8" height="128" filename="images/frames/frame_left.png">
-	<icon name="Maya_Frame_Left" row="1" col="1" />
+<set size="large" width="8" height="128" filename="frame_left.png">
+<icon name="Maya_Frame_Left" row="1" col="1" />
 </set>
-<set size="large" width="8" height="128" filename="images/frames/frame_right.png">
-	<icon name="Maya_Frame_Right" row="1" col="1" />
+<set size="large" width="8" height="128" filename="frame_right.png">
+<icon name="Maya_Frame_Right" row="1" col="1" />
 </set>
-
 </iconset>
