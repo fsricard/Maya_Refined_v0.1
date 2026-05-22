@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="1.0" name="Maya Refined Layout">
+
+    <!-- ========================= -->
+    <!--   CONFIGURACIÓN GENERAL   -->
+    <!-- ========================= -->
+
+    <window rect="0,0,1280,800" state="normal" lister_style="default" />
+
+    <!-- ========================= -->
+    <!--   TOOLBAR SUPERIOR (MENU) -->
+    <!-- ========================= -->
+
+    <toolbarref name="Maya Refined — Menu" position="top" locked="yes" />
+
+    <!-- ========================= -->
+    <!--   TOOLBAR PRINCIPAL       -->
+    <!-- ========================= -->
+
+    <toolbarref name="Maya Refined — Main" position="top" locked="yes" />
+
+    <!-- ========================= -->
+    <!--   TOOLBAR DE TABS         -->
+    <!-- ========================= -->
+
+    <toolbarref name="Maya Refined — Tabs" position="top" locked="yes" />
+
+    <!-- ========================= -->
+    <!--   TOOLBAR BREADCRUMBS     -->
+    <!-- ========================= -->
+
+    <toolbarref name="Maya Refined — Breadcrumbs" position="top" locked="yes" />
+
+    <!-- ========================= -->
+    <!--   PANEL PRINCIPAL         -->
+    <!-- ========================= -->
+
+    <filedisplay id="1" active="yes" viewmode="details" />
+
+    <!-- ========================= -->
+    <!--   PANEL SECUNDARIO (DUAL) -->
+    <!-- ========================= -->
+
+    <filedisplay id="2" active="no" viewmode="details" />
+
+    <!-- ========================= -->
+    <!--   CONFIGURACIÓN DE PANELES -->
+    <!-- ========================= -->
+
+    <duallister enabled="no" orientation="horizontal" />
+
+</layout>
