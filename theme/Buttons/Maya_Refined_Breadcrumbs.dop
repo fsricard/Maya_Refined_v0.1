@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar name="Maya Refined — Breadcrumbs" guid="{C3D4E5F6-A1B2-49CC-AA11-334455667788}" flags="largeicons" hot="1">
+
+    <!-- ========================= -->
+    <!--   FONDO DE BREADCRUMBS    -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Breadcrumb_Background"
+            hoticon="Maya_Breadcrumb_Background"
+            downicon="Maya_Breadcrumb_Background"
+            disabled="yes">
+        <label>Navegación</label>
+        <tip>Ruta actual</tip>
+        <command />
+    </button>
+
+    <!-- ========================= -->
+    <!--   FLECHA: ATRÁS           -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Breadcrumb_Arrow"
+            hoticon="Maya_Breadcrumb_Arrow_Hover"
+            downicon="Maya_Breadcrumb_Arrow_Pressed">
+        <label>Atrás</label>
+        <tip>Ir a la carpeta anterior</tip>
+        <command>Go BACK</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--   FLECHA: ADELANTE        -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Breadcrumb_Arrow"
+            hoticon="Maya_Breadcrumb_Arrow_Hover"
+            downicon="Maya_Breadcrumb_Arrow_Pressed">
+        <label>Adelante</label>
+        <tip>Ir a la carpeta siguiente</tip>
+        <command>Go FORWARD</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--   FLECHA: SUBIR           -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Breadcrumb_Arrow"
+            hoticon="Maya_Breadcrumb_Arrow_Hover"
+            downicon="Maya_Breadcrumb_Arrow_Pressed">
+        <label>Subir</label>
+        <tip>Subir un nivel</tip>
+        <command>Go UP</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--   FLECHA: RAÍZ            -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Breadcrumb_Arrow"
+            hoticon="Maya_Breadcrumb_Arrow_Hover"
+            downicon="Maya_Breadcrumb_Arrow_Pressed">
+        <label>Raíz</label>
+        <tip>Ir a la raíz del volumen</tip>
+        <command>Go ROOT</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--   FLECHA: HOME            -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Breadcrumb_Arrow"
+            hoticon="Maya_Breadcrumb_Arrow_Hover"
+            downicon="Maya_Breadcrumb_Arrow_Pressed">
+        <label>Home</label>
+        <tip>Ir a la carpeta de usuario</tip>
+        <command>Go /home</command>
+    </button>
+
+</toolbar>
