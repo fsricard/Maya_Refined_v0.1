@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar name="Maya Refined — Menu" guid="{D4E5F6A1-B2C3-4ADD-BB22-445566778899}" flags="largeicons" hot="1">
+
+    <!-- ========================= -->
+    <!--     FONDO DE MENUBAR      -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Menubar_Background"
+            hoticon="Maya_Menubar_Background"
+            downicon="Maya_Menubar_Background"
+            disabled="yes">
+        <label>Menú</label>
+        <tip>Barra de menú</tip>
+        <command />
+    </button>
+
+    <!-- ========================= -->
+    <!--         ARCHIVO           -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Menubar_Item"
+            hoticon="Maya_Menubar_Item"
+            downicon="Maya_Menu_Item_Pressed">
+        <label>Archivo</label>
+        <tip>Opciones de archivo</tip>
+        <command>
+            FileType CONTEXTMENU=tab
+        </command>
+    </button>
+
+    <!-- ========================= -->
+    <!--         EDITAR            -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Menubar_Item"
+            hoticon="Maya_Menubar_Item"
+            downicon="Maya_Menu_Item_Pressed">
+        <label>Editar</label>
+        <tip>Opciones de edición</tip>
+        <command>
+            Clipboard MENU
+        </command>
+    </button>
+
+    <!-- ========================= -->
+    <!--         VER               -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Menubar_Item"
+            hoticon="Maya_Menubar_Item"
+            downicon="Maya_Menu_Item_Pressed">
+        <label>Ver</label>
+        <tip>Opciones de visualización</tip>
+        <command>
+            View MENU
+        </command>
+    </button>
+
+    <!-- ========================= -->
+    <!--         HERRAMIENTAS      -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Menubar_Item"
+            hoticon="Maya_Menubar_Item"
+            downicon="Maya_Menu_Item_Pressed">
+        <label>Herramientas</label>
+        <tip>Herramientas avanzadas</tip>
+        <command>
+            Tools MENU
+        </command>
+    </button>
+
+    <!-- ========================= -->
+    <!--         AYUDA             -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Menubar_Item"
+            hoticon="Maya_Menubar_Item"
+            downicon="Maya_Menu_Item_Pressed">
+        <label>Ayuda</label>
+        <tip>Información y soporte</tip>
+        <command>
+            Help MENU
+        </command>
+    </button>
+
+</toolbar>
