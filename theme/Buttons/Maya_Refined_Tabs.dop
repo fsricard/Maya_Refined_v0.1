@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar name="Maya Refined — Tabs" guid="{B2C3D4E5-F6A1-48BB-9911-223344556677}" flags="largeicons" hot="1">
+
+    <!-- ========================= -->
+    <!--     PESTAÑA ACTIVA        -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Tab_Active"
+            hoticon="Maya_Tab_Hover"
+            downicon="Maya_Tab_Active">
+        <label>Pestaña actual</label>
+        <tip>Ir a la pestaña actual</tip>
+        <command>Go TABSELECT</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--     PESTAÑA ANTERIOR      -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Tab_Inactive"
+            hoticon="Maya_Tab_Hover"
+            downicon="Maya_Tab_Active">
+        <label>Anterior</label>
+        <tip>Ir a la pestaña anterior</tip>
+        <command>Go TABPREV</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--     PESTAÑA SIGUIENTE     -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Tab_Inactive"
+            hoticon="Maya_Tab_Hover"
+            downicon="Maya_Tab_Active">
+        <label>Siguiente</label>
+        <tip>Ir a la pestaña siguiente</tip>
+        <command>Go TABNEXT</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--     NUEVA PESTAÑA         -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Tab_Inactive"
+            hoticon="Maya_Tab_Hover"
+            downicon="Maya_Tab_Active">
+        <label>Nueva</label>
+        <tip>Abrir nueva pestaña</tip>
+        <command>Go NEWTAB</command>
+    </button>
+
+    <!-- ========================= -->
+    <!--     CERRAR PESTAÑA        -->
+    <!-- ========================= -->
+
+    <button display="icon" label_pos="below"
+            icon="Maya_Tab_Inactive"
+            hoticon="Maya_Tab_Hover"
+            downicon="Maya_Tab_Active">
+        <label>Cerrar</label>
+        <tip>Cerrar pestaña actual</tip>
+        <command>Close TAB</command>
+    </button>
+
+</toolbar>
